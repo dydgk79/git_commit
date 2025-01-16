@@ -1,1 +1,2 @@
-sample is created
+Hello Git!!!
+Hello GitHub!!!
